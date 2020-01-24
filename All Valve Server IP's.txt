@@ -1,0 +1,1344 @@
+==================================================
+Index             : 47
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 211.95.37.143
+Local Port        : 57255
+Remote Port       : 27016
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:426
+Last Packet Time  : 25.01.2020 00:38:53:846
+Duration          : 00:00:00.420
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 39
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 34.85.12.153
+Local Port        : 57236
+Remote Port       : 27016
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 153.12.85.34.bc.googleusercontent.com
+Service Name      : 
+Packets           : 2
+Data Size         : 448 Bytes
+Total Size        : 948 Bytes
+Data Speed        : 1.5 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:593
+Last Packet Time  : 25.01.2020 00:38:52:892
+Duration          : 00:00:00.299
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 20
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.199.178
+Local Port        : 57228
+Remote Port       : 27016
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 162-254-199-178.valve.net
+Service Name      : 
+Packets           : 2
+Data Size         : 642 Bytes
+Total Size        : 1.142 Bytes
+Data Speed        : 4.5 KB/Sec
+Capture Time      : 25.01.2020 00:38:50:251
+Last Packet Time  : 25.01.2020 00:38:50:394
+Duration          : 00:00:00.143
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 21
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.233.98
+Local Port        : 57229
+Remote Port       : 27018
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 653 Bytes
+Total Size        : 1.153 Bytes
+Data Speed        : 2.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:50:572
+Last Packet Time  : 25.01.2020 00:38:50:866
+Duration          : 00:00:00.294
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 7
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.197.181
+Local Port        : 57222
+Remote Port       : 27018
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 216
+Data Size         : 90.464 Bytes
+Total Size        : 96.992 Bytes
+Data Speed        : 1.1 KB/Sec
+Capture Time      : 25.01.2020 00:37:57:205
+Last Packet Time  : 25.01.2020 00:39:16:771
+Duration          : 00:01:19.566
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 40
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.195.86
+Local Port        : 57258
+Remote Port       : 27019
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 648 Bytes
+Total Size        : 1.148 Bytes
+Data Speed        : 2.9 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:677
+Last Packet Time  : 25.01.2020 00:38:52:893
+Duration          : 00:00:00.216
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 36
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 205.196.6.74
+Local Port        : 57250
+Remote Port       : 27022
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 649 Bytes
+Total Size        : 1.149 Bytes
+Data Speed        : 3.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:299
+Last Packet Time  : 25.01.2020 00:38:52:479
+Duration          : 00:00:00.180
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 43
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.254.130
+Local Port        : 57266
+Remote Port       : 27028
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 648 Bytes
+Total Size        : 1.148 Bytes
+Data Speed        : 3.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:008
+Last Packet Time  : 25.01.2020 00:38:53:203
+Duration          : 00:00:00.195
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 22
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 183.232.225.19
+Local Port        : 57230
+Remote Port       : 27028
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:50:685
+Last Packet Time  : 25.01.2020 00:38:50:930
+Duration          : 00:00:00.245
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 35
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.193.71
+Local Port        : 57242
+Remote Port       : 27029
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 643 Bytes
+Total Size        : 1.143 Bytes
+Data Speed        : 5.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:183
+Last Packet Time  : 25.01.2020 00:38:52:302
+Duration          : 00:00:00.119
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 28
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 61.182.135.17
+Local Port        : 57247
+Remote Port       : 27030
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:497
+Last Packet Time  : 25.01.2020 00:38:51:821
+Duration          : 00:00:00.324
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 24
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 157.255.37.19
+Local Port        : 57232
+Remote Port       : 27030
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:067
+Last Packet Time  : 25.01.2020 00:38:51:421
+Duration          : 00:00:00.354
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 9
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 146.66.155.35
+Local Port        : 57246
+Remote Port       : 27030
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 146-66-155-35.valve.net
+Service Name      : 
+Packets           : 6
+Data Size         : 80 Bytes
+Total Size        : 286 Bytes
+Data Speed        : 0.0 KB/Sec
+Capture Time      : 25.01.2020 00:37:59:129
+Last Packet Time  : 25.01.2020 00:38:44:488
+Duration          : 00:00:45.359
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 34
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 146.66.154.20
+Local Port        : 57261
+Remote Port       : 27032
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 647 Bytes
+Total Size        : 1.147 Bytes
+Data Speed        : 6.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:070
+Last Packet Time  : 25.01.2020 00:38:52:176
+Duration          : 00:00:00.106
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 63
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 35.221.218.141
+Local Port        : 51858
+Remote Port       : 27035
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 141.218.221.35.bc.googleusercontent.com
+Service Name      : 
+Packets           : 1
+Data Size         : 416 Bytes
+Total Size        : 888 Bytes
+Data Speed        : 
+Capture Time      : 25.01.2020 00:38:58:745
+Last Packet Time  : 25.01.2020 00:38:58:745
+Duration          : 00:00:00.000
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 57
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.198.102
+Local Port        : 57238
+Remote Port       : 27035
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 162-254-198-102.valve.net
+Service Name      : 
+Packets           : 2
+Data Size         : 647 Bytes
+Total Size        : 1.147 Bytes
+Data Speed        : 10.0 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:393
+Last Packet Time  : 25.01.2020 00:38:54:454
+Duration          : 00:00:00.061
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 44
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.249.194
+Local Port        : 57249
+Remote Port       : 27035
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 656 Bytes
+Total Size        : 1.156 Bytes
+Data Speed        : 1.9 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:083
+Last Packet Time  : 25.01.2020 00:38:53:423
+Duration          : 00:00:00.340
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 23
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 205.185.194.212
+Local Port        : 57237
+Remote Port       : 27036
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 544 Bytes
+Total Size        : 1.044 Bytes
+Data Speed        : 2.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:50:807
+Last Packet Time  : 25.01.2020 00:38:51:038
+Duration          : 00:00:00.231
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 48
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 153.254.86.28
+Local Port        : 57268
+Remote Port       : 27037
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 619 Bytes
+Total Size        : 1.119 Bytes
+Data Speed        : 2.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:485
+Last Packet Time  : 25.01.2020 00:38:53:700
+Duration          : 00:00:00.215
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 31
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 185.25.183.162
+Local Port        : 57233
+Remote Port       : 27037
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 655 Bytes
+Total Size        : 1.155 Bytes
+Data Speed        : 5.9 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:815
+Last Packet Time  : 25.01.2020 00:38:51:919
+Duration          : 00:00:00.104
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 50
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.253.34
+Local Port        : 57265
+Remote Port       : 27038
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 655 Bytes
+Total Size        : 1.155 Bytes
+Data Speed        : 2.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:697
+Last Packet Time  : 25.01.2020 00:38:53:977
+Duration          : 00:00:00.280
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 42
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.246.34
+Local Port        : 57264
+Remote Port       : 27038
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 647 Bytes
+Total Size        : 1.147 Bytes
+Data Speed        : 5.7 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:895
+Last Packet Time  : 25.01.2020 00:38:53:004
+Duration          : 00:00:00.109
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 38
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 125.88.174.13
+Local Port        : 63833
+Remote Port       : 27038
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:480
+Last Packet Time  : 25.01.2020 00:38:52:807
+Duration          : 00:00:00.327
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 52
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 103.10.124.45
+Local Port        : 57251
+Remote Port       : 27039
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 103-10-124-45.valve.net
+Service Name      : 
+Packets           : 2
+Data Size         : 618 Bytes
+Total Size        : 1.118 Bytes
+Data Speed        : 3.0 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:968
+Last Packet Time  : 25.01.2020 00:38:54:163
+Duration          : 00:00:00.195
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 19
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.248.36
+Local Port        : 57227
+Remote Port       : 27040
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 646 Bytes
+Total Size        : 1.146 Bytes
+Data Speed        : 13.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:50:035
+Last Packet Time  : 25.01.2020 00:38:50:077
+Duration          : 00:00:00.042
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 45
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 117.184.42.135
+Local Port        : 57253
+Remote Port       : 27041
+Local Host        : linuxxxx.fritz.box
+Remote Host       : .
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:207
+Last Packet Time  : 25.01.2020 00:38:53:604
+Duration          : 00:00:00.397
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 51
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 125.88.173.11
+Local Port        : 57272
+Remote Port       : 27042
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.6 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:850
+Last Packet Time  : 25.01.2020 00:38:54:121
+Duration          : 00:00:00.271
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 32
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.235.18
+Local Port        : 57234
+Remote Port       : 27042
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 616 Bytes
+Total Size        : 1.116 Bytes
+Data Speed        : 4.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:913
+Last Packet Time  : 25.01.2020 00:38:52:068
+Duration          : 00:00:00.155
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 49
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.196.66
+Local Port        : 57259
+Remote Port       : 27043
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 646 Bytes
+Total Size        : 1.146 Bytes
+Data Speed        : 8.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:607
+Last Packet Time  : 25.01.2020 00:38:53:687
+Duration          : 00:00:00.080
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 37
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 180.153.252.13
+Local Port        : 57256
+Remote Port       : 27043
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.7 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:410
+Last Packet Time  : 25.01.2020 00:38:52:677
+Duration          : 00:00:00.267
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 55
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.192.67
+Local Port        : 57269
+Remote Port       : 27045
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 642 Bytes
+Total Size        : 1.142 Bytes
+Data Speed        : 5.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:191
+Last Packet Time  : 25.01.2020 00:38:54:299
+Duration          : 00:00:00.108
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 46
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 121.46.225.15
+Local Port        : 57254
+Remote Port       : 27045
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.5 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:299
+Last Packet Time  : 25.01.2020 00:38:53:610
+Duration          : 00:00:00.311
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 33
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 190.217.33.34
+Local Port        : 57260
+Remote Port       : 27045
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 654 Bytes
+Total Size        : 1.154 Bytes
+Data Speed        : 3.7 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:008
+Last Packet Time  : 25.01.2020 00:38:52:191
+Duration          : 00:00:00.183
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 26
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.239.59
+Local Port        : 57244
+Remote Port       : 27046
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 618 Bytes
+Total Size        : 1.118 Bytes
+Data Speed        : 1.9 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:258
+Last Packet Time  : 25.01.2020 00:38:51:569
+Duration          : 00:00:00.311
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 25
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 116.211.132.12
+Local Port        : 57252
+Remote Port       : 27047
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.4 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:177
+Last Packet Time  : 25.01.2020 00:38:51:501
+Duration          : 00:00:00.324
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 56
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.238.162
+Local Port        : 57257
+Remote Port       : 27048
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 659 Bytes
+Total Size        : 1.159 Bytes
+Data Speed        : 3.2 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:294
+Last Packet Time  : 25.01.2020 00:38:54:493
+Duration          : 00:00:00.199
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 62
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 183.136.230.14
+Local Port        : 54401
+Remote Port       : 27052
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.5 KB/Sec
+Capture Time      : 25.01.2020 00:38:55:809
+Last Packet Time  : 25.01.2020 00:38:56:110
+Duration          : 00:00:00.301
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 1
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 162.254.197.72
+Local Port        : 57235
+Remote Port       : 27052
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 8.956
+Data Size         : 4.678.679 Bytes
+Total Size        : 4.930.386 Bytes
+Data Speed        : 56.9 KB/Sec
+Capture Time      : 25.01.2020 00:37:56:633
+Last Packet Time  : 25.01.2020 00:39:16:873
+Duration          : 00:01:20.239
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 29
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.230.35
+Local Port        : 57262
+Remote Port       : 27053
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 648 Bytes
+Total Size        : 1.148 Bytes
+Data Speed        : 8.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:572
+Last Packet Time  : 25.01.2020 00:38:51:654
+Duration          : 00:00:00.082
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 60
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 42.81.120.144
+Local Port        : 49876
+Remote Port       : 27054
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.5 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:695
+Last Packet Time  : 25.01.2020 00:38:55:009
+Duration          : 00:00:00.314
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 54
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 125.39.181.11
+Local Port        : 57243
+Remote Port       : 27056
+Local Host        : linuxxxx.fritz.box
+Remote Host       : no-data
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:089
+Last Packet Time  : 25.01.2020 00:38:54:453
+Duration          : 00:00:00.364
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 53
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 111.32.164.146
+Local Port        : 57241
+Remote Port       : 27057
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 472 Bytes
+Total Size        : 972 Bytes
+Data Speed        : 1.7 KB/Sec
+Capture Time      : 25.01.2020 00:38:53:999
+Last Packet Time  : 25.01.2020 00:38:54:257
+Duration          : 00:00:00.258
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 30
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 185.25.182.67
+Local Port        : 57273
+Remote Port       : 27057
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 646 Bytes
+Total Size        : 1.146 Bytes
+Data Speed        : 8.1 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:660
+Last Packet Time  : 25.01.2020 00:38:51:729
+Duration          : 00:00:00.069
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 58
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.252.35
+Local Port        : 49874
+Remote Port       : 27058
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 647 Bytes
+Total Size        : 1.147 Bytes
+Data Speed        : 6.8 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:493
+Last Packet Time  : 25.01.2020 00:38:54:598
+Duration          : 00:00:00.105
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 41
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.232.98
+Local Port        : 57263
+Remote Port       : 27059
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 2
+Data Size         : 653 Bytes
+Total Size        : 1.153 Bytes
+Data Speed        : 2.3 KB/Sec
+Capture Time      : 25.01.2020 00:38:52:802
+Last Packet Time  : 25.01.2020 00:38:53:082
+Duration          : 00:00:00.280
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 27
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 220.194.68.14
+Local Port        : 57271
+Remote Port       : 27061
+Local Host        : linuxxxx.fritz.box
+Remote Host       : dns14.online.tj.cn
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.2 KB/Sec
+Capture Time      : 25.01.2020 00:38:51:377
+Last Packet Time  : 25.01.2020 00:38:51:728
+Duration          : 00:00:00.351
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 59
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 103.10.125.162
+Local Port        : 57240
+Remote Port       : 27064
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 103-10-125-162.valve.net
+Service Name      : 
+Packets           : 2
+Data Size         : 457 Bytes
+Total Size        : 957 Bytes
+Data Speed        : 1.6 KB/Sec
+Capture Time      : 25.01.2020 00:38:54:602
+Last Packet Time  : 25.01.2020 00:38:54:893
+Duration          : 00:00:00.291
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
+==================================================
+Index             : 64
+Protocol          : UDP
+Local Address     : 192.168.178.47
+Remote Address    : 155.133.245.34
+Local Port        : 51859
+Remote Port       : 27068
+Local Host        : linuxxxx.fritz.box
+Remote Host       : 
+Service Name      : 
+Packets           : 1
+Data Size         : 416 Bytes
+Total Size        : 888 Bytes
+Data Speed        : 
+Capture Time      : 25.01.2020 00:38:58:859
+Last Packet Time  : 25.01.2020 00:38:58:859
+Duration          : 00:00:00.000
+ProcessID         : 
+Process Filename  : 
+Process User      : 
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+
+
